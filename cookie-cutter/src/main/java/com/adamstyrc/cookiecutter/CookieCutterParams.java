@@ -107,7 +107,7 @@ public class CookieCutterParams {
         public CircleParams() {
             paint = new Paint();
             paint.setAntiAlias(true);
-            paint.setColor(Color.BLACK);
+            paint.setColor(Color.parseColor("#636161"));
             paint.setStrokeWidth(10);
             paint.setStyle(Paint.Style.STROKE);
         }
@@ -127,7 +127,7 @@ public class CookieCutterParams {
         public SquareParams() {
             paint = new Paint();
             paint.setAntiAlias(true);
-            paint.setColor(Color.BLACK);
+            paint.setColor(Color.parseColor("#636161"));
             paint.setStrokeWidth(10);
             paint.setStyle(Paint.Style.STROKE);
         }
@@ -137,7 +137,7 @@ public class CookieCutterParams {
         }
 
         public void setColor(int color) {
-            paint.setColor(color);
+            paint.setColor(Color.parseColor("#636161"));
         }
     }
 }
