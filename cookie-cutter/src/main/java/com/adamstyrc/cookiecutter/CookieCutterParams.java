@@ -1,4 +1,4 @@
-package com.adamstyrc.cookiecutter;
+package com.github.KrishnaVyshak:cookie-cutter;
 
 import android.graphics.Color;
 import android.graphics.Paint;
@@ -107,8 +107,8 @@ public class CookieCutterParams {
         public CircleParams() {
             paint = new Paint();
             paint.setAntiAlias(true);
-            paint.setColor(Color.WHITE);
-            paint.setStrokeWidth(5);
+            paint.setColor(Color.BLACK);
+            paint.setStrokeWidth(10);
             paint.setStyle(Paint.Style.STROKE);
         }
 
@@ -127,8 +127,8 @@ public class CookieCutterParams {
         public SquareParams() {
             paint = new Paint();
             paint.setAntiAlias(true);
-            paint.setColor(Color.WHITE);
-            paint.setStrokeWidth(5);
+            paint.setColor(Color.BLACK);
+            paint.setStrokeWidth(10);
             paint.setStyle(Paint.Style.STROKE);
         }
 
