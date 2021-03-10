@@ -1,4 +1,4 @@
-package com.adamstyrc.cookiecutter;
+package com.github.KrishnaVyshak:cookie-cutter;
 
 import android.graphics.Matrix;
 import android.graphics.PointF;
