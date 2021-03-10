@@ -1,4 +1,4 @@
-package com.adamstyrc.cookiecutter;
+package com.github.KrishnaVyshak:cookie-cutter;
 
 import android.content.Context;
 import android.graphics.Bitmap;
