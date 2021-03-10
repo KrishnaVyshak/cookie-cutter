@@ -1,4 +1,4 @@
-package com.adamstyrc.cookiecutter;
+package com.github.KrishnaVyshak:cookie-cutter;
 
 /**
  * Created by adamstyrc on 05/04/16.
