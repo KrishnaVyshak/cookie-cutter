@@ -1,4 +1,4 @@
-package com.adamstyrc.cookiecutter;
+package com.github.KrishnaVyshak:cookie-cutter;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -16,7 +16,7 @@ import android.view.ViewTreeObserver;
 import android.widget.ImageView;
 
 /**
- * Created by adamstyrc on 31/03/16.
+ * 
  */
 public class CookieCutterImageView extends ImageView {
 
