@@ -137,7 +137,7 @@ public class CookieCutterParams {
         }
 
         public void setColor(int color) {
-            paint.setColor(Color.parseColor("#636161"));
+            paint.setColor(color);
         }
     }
 }
